@@ -1,0 +1,36 @@
+div{
+    margin: auto;
+    text-align: center;
+}
+img{
+    margin-right: 30%;
+    margin-left: 30%;
+    margin: auto;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: larger;
+}
+H1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+header{
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+a{
+    color: white;
+    background-color: black;
+    font-size:2rem ;
+    text-align: text;
+    margin-top: 50%;
+    text-decoration: none;
+}
